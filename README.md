@@ -1,0 +1,1 @@
+# Reconocimiento-emociones-con-LSTM-y-CNN
