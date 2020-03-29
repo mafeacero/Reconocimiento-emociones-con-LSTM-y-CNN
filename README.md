@@ -1,4 +1,4 @@
-# Reconocimiento-emociones-con-LSTM-y-CNN
+# Reconocimiento emociones con LSTM y CNN
 El proyecto tendrá como objetivo la clasificación de las emociones. Este análisis se hará con la base de datos de [RAVDESS](https://zenodo.org/record/1188976#.XoEvLYhKhPa). La cual tiene dos tipos de archivos:
 - Audio: Habla y canto
 - Video: Habla y canto
