@@ -1,8 +1,10 @@
 # Reconocimiento-emociones-con-LSTM-y-CNN
-El proyecto tendrá como objetivo la clasificación de las emociones. Este análisis se hará con la base de datos de RAVSSS. La cual tiene dos tipos de archivos:
+El proyecto tendrá como objetivo la clasificación de las emociones. Este análisis se hará con la base de datos de [RAVDESS!](https://zenodo.org/record/1188976#.XoEvLYhKhPa). La cual tiene dos tipos de archivos:
 - Audio: Habla y canto
 - Video: Habla y canto
+
 Cada uno de estos tiene varios identificadores, los cuales son los siguientes: 
+
 1. Modalidad (01 = full-AV, 02 = video-only, 03 = audio-only).
 2. Canal de audio (01 = speech, 02 = song).
 3. Emoción (01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised).
