@@ -1,4 +1,4 @@
-# Reconocimiento emociones con LSTM y CNN
+# Reconocimiento emociones con Redes Neuronales
 
 **Integrantes**: Wendy Garcia y Maria Acero
 
@@ -16,4 +16,8 @@ Cada uno de estos tiene varios identificadores, los cuales son los siguientes:
 6. Repetición (01 = 1st repetition, 02 = 2nd repetition).
 7. Actor (01 to 24. Odd numbered actors are male, even numbered actors are female).
 
-A través de esto, se busca realizar una clasificación de la emoción que encontramos en los archivos. Lo cual será desarrollado por medio de redes neuronales convolucionadas y redes LSTM. 
+Para esto se realizará un modelo para los videos y para los audios. Para los audios se evaluarán las siguientes posibilidades:
+1. [Modelo de una red neuronal sobre los audios.](https://github.com/mafeacero/Reconocimiento-emociones-con-Redes-Neuronales/blob/master/NN_Audio_An%C3%A1lsis_de_sentimientos.ipynb) 
+2. Modelo de una red neuronal sobre los espectogramas. 
+3. Modelo de una ResNet sobre los espectogramas. 
+
