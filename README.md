@@ -16,6 +16,9 @@ Cada uno de estos tiene varios identificadores, los cuales son los siguientes:
 6. Repetición (01 = 1st repetition, 02 = 2nd repetition).
 7. Actor (01 to 24. Odd numbered actors are male, even numbered actors are female).
 
+La lectura de los audios fue realizada por medio de lo que se encuentra en el documento: 
+[Proyecto](https://github.com/mafeacero/Reconocimiento-emociones-con-Redes-Neuronales/blob/master/Proyecto.ipynb) 
+
 Para esto se realizará un modelo para los videos y para los audios. Para los audios se evaluarán las siguientes posibilidades:
 1. [Modelo de una red neuronal sobre los audios.](https://github.com/mafeacero/Reconocimiento-emociones-con-Redes-Neuronales/blob/master/NN_Audio_An%C3%A1lsis_de_sentimientos.ipynb) 
 2. Modelo de una red neuronal sobre los espectogramas. 
